@@ -5,3 +5,20 @@ html {
 body {
   background: #fff;
 }
+#user {
+  color: blue;
+}
+h1,
+h2,
+button {
+  color: green;
+}
+
+h1.button {
+  background: red;
+  color: green;
+}
+
+.box > p {
+  color: blueviolet;
+}
